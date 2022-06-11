@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyWaterUI", "DailyWaterUI\DailyWaterUI.csproj", "{58FDD101-A255-4DA7-9BAA-C02D6437C3FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WaterUI", "WaterUI\WaterUI.vdproj", "{A885611E-FAAD-4277-AEB8-D8F827BBFA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FDD101-A255-4DA7-9BAA-C02D6437C3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FDD101-A255-4DA7-9BAA-C02D6437C3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FDD101-A255-4DA7-9BAA-C02D6437C3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FDD101-A255-4DA7-9BAA-C02D6437C3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A885611E-FAAD-4277-AEB8-D8F827BBFA34}.Debug|Any CPU.ActiveCfg = Debug
+		{A885611E-FAAD-4277-AEB8-D8F827BBFA34}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB91343-BD53-43D9-9309-E5C82C961493}
+	EndGlobalSection
+EndGlobal
